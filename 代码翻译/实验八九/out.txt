@@ -1,0 +1,15 @@
+No.	OP	ARG1	ARG2	RES
+[1]	=	10	/	a	
+[2]	=	1	/	b	
+[3]	<=	a	b	(6)	
+[4]	=	a	/	max	
+[5]	GOTO			(7)	
+[6]	=	b	/	max	
+[7]	<=	a	0	(14)	
+[8]	*	b	a	tmp0	
+[9]	+	a	tmp0	tmp1	
+[10]	=	tmp1	/	b	
+[11]	-	a	1	tmp2	
+[12]	=	tmp2	/	a	
+[13]	GOTO			(7)	
+[14]					

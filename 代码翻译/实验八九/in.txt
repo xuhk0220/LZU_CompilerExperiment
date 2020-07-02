@@ -1,0 +1,13 @@
+main()
+{ int a,b,max;
+a=10;  b=1;
+while(a+b-c>=0)
+{
+b=a+b*a;
+a=a-1;
+if (a>b) max=a;
+else max=b;
+}
+}
+
+
