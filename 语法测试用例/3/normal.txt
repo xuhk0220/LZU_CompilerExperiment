@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main(void)
+{int x,y;
+ x=1;
+ while(x<5)
+  { if (x==0)
+      y=x+1;
+	else
+	  y=x+2;
+    x=x+1;
+  }
+  return 0;
+}

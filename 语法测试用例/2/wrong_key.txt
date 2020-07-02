@@ -1,0 +1,14 @@
+{
+ inta x,y;
+ o, r, z ;
+ int int a, b;
+ wihle(x>=5)
+  { int c, 1 ;
+  	if (x/2*2-x  = 0)
+      (y-1)=  x+1;
+	else
+	  (y) = x + 2;
+    0 = x+1;
+  }
+  
+}

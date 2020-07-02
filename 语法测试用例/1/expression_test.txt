@@ -1,0 +1,8 @@
+test1:  a+b*2/4-(b+C)*3       对
+test2:  a+b*2/4(b+C)*3        错
+test3:  a+b*2/4-(b+C3         错
+test4:  C                                对
+test5:  0                                对
+test6:  (((a)-(b*(2-(4))+C)))   对
+test7:  a-b-C-2+5-(0-)         错 
+test8:  a*b/2*(D*)/0             错

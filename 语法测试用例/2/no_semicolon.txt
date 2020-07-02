@@ -1,0 +1,11 @@
+{int x,y
+ int a, b c, , d;
+ while(x>=5)
+  { if (x/2*2-x==0)
+      y=  x+1;
+	else
+	  y = x + 2
+    x=x+1
+  }
+  ;
+}

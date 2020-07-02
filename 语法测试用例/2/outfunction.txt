@@ -1,0 +1,23 @@
+int cal()
+{
+	int a;
+	int b;
+	int c;
+	a=0;
+	b=3;
+	c=a+b;
+}
+main()
+{
+	int y;
+	int x;
+	x=3;
+	y=1;
+	if(x>y)
+		x=x-y;
+	else 
+		x=y-x;
+	while(x>y)
+		x=x-y;
+	cal();
+}#
